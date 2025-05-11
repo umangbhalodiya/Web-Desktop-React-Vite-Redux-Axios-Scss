@@ -19,8 +19,7 @@ a:hover {
 }
 
 body {
-  margin: 0; 
-  min-height: 100vh;
+  margin: 0;
 }
 
 h1 {
@@ -42,7 +41,6 @@ button {
 button:hover {
   border-color: #646cff;
 }
- 
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -52,5 +50,4 @@ button:hover {
   a:hover {
     color: #747bff;
   }
- 
 }
